@@ -1,3 +1,5 @@
+package Material;
+
 public class PE2Solution {
     
     // The method for the template

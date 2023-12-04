@@ -1,3 +1,5 @@
+package Material;
+
 public class Method {
     public static void main(String[] args) {
         addition(5, 10);

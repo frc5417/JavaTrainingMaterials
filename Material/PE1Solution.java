@@ -1,3 +1,5 @@
+package Material;
+
 public class PE1Solution {
     public static void main(String[] args) {
 

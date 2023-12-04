@@ -1,3 +1,5 @@
+package Material;
+
 public class VariableTypes {
     public static void main(String[] args) {
         String variable1 = "Robotics";
